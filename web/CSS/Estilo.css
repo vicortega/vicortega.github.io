@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 27-jun-2016, 19:43:55
+    Author     : Alumno
+*/
+
+body{
+    background-color: #0A71AB;
+    color: white;
+}
+
+td {
+    border-bottom: 1px solid #2493d9;
+    border-left: 1px solid #2493d9;
+    text-align: center;
+}
+
+.nombre-equipo{
+    text-align: left;
+    border-left: 0;
+}
+
+.grupo {
+    background: #005A8A;
+}
+
+.titulo {
+    font-family: sans-serif;
+    font-size: 36px;
+}
+
+.puntos {
+    background: #EB9114;
+}
+
+.columnaPuntos {
+    background: #083955;
+}
